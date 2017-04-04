@@ -10,6 +10,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            CreditCart.Class1 debet = new CreditCart.Class1();
+            Console.WriteLine(debet.debet);
         }
     }
 }
