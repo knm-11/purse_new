@@ -10,6 +10,8 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            Money.Money count = new Money.Money();
+            Console.WriteLine(count.count);
         }
     }
 }
