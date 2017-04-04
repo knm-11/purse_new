@@ -1,0 +1,5 @@
+D:\1\New folder (2)\Purse\CreditCart\bin\Debug\CreditCart.dll
+D:\1\New folder (2)\Purse\CreditCart\bin\Debug\CreditCart.pdb
+D:\1\New folder (2)\Purse\CreditCart\obj\Debug\CreditCart.csprojResolveAssemblyReference.cache
+D:\1\New folder (2)\Purse\CreditCart\obj\Debug\CreditCart.dll
+D:\1\New folder (2)\Purse\CreditCart\obj\Debug\CreditCart.pdb
