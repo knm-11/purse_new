@@ -1,1 +1,2 @@
 D:\1\New folder (2)\Purse\Purse\bin\Debug\Purse.exe.config
+D:\Herych\purse_new\Purse\bin\Debug\Purse.exe.config
